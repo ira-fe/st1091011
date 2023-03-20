@@ -9,6 +9,7 @@
 ''Date/Initials            Comments
 ''-------------        ------------------
 ''11/27/2022              Created for ABC
+''To test new ideas
 
 ''Valid input
 AddCustomer "Julia", "Krey", "1100 Sunset blvd", "Hollywood", "CA", "08654"
