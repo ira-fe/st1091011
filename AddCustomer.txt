@@ -19,7 +19,7 @@ AddCustomer "Daniel", "Key", "1100 Sunset blvd", "Hollywood", "CA", "08654"
 AddCustomer "Svetlana", "God", "11 Sunset blvd", "Hollywood", "CA", "08654"
 AddCustomer "Sasha", "Godir", "11 Sunset blvd", "Hollywood", "CA", "08654"
 
-
+AddCustomer "Dora", "Gled", "11 Sunset blvd", "Hollywood", "CA", "08654"
 
 ''Invalid input- missing first name
 AddCustomer "", "Smith", "32 Main str", "New York", "NY", "09876"
