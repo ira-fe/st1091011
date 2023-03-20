@@ -14,6 +14,10 @@
 AddCustomer "Julia", "Krey", "1100 Sunset blvd", "Hollywood", "CA", "08654"
 AddCustomer "Sonia", "Good", "11 Sunset blvd", "Hollywood", "CA", "08654"
 AddCustomer "John", "Drew", "1100 Sunset blvd", "Hollywood", "CA", "08654"
+AddCustomer "Daniel", "Key", "1100 Sunset blvd", "Hollywood", "CA", "08654"
+AddCustomer "Svetlana", "God", "11 Sunset blvd", "Hollywood", "CA", "08654"
+AddCustomer "Sasha", "Godir", "11 Sunset blvd", "Hollywood", "CA", "08654"
+
 
 
 ''Invalid input- missing first name
