@@ -1,0 +1,22 @@
+''FILENAME: AddCustomer02
+''*************************************************
+''ABOUT THIS FILE
+''AUTHOR IDENTITY:
+''Initials                Home/Company
+''-----------            ---------------
+''I.B.                    ABC
+''REVISION HISTORY:
+''Date/Initials            Comments
+''-------------        ------------------
+''11/27/2022              Created for ABC
+
+''Valid input
+AddCustomer "Julia", "Krey", "1100 Sunset blvd", "Hollywood", "CA", "08654"
+AddCustomer "Sonia", "Good", "11 Sunset blvd", "Hollywood", "CA", "08654"
+AddCustomer "John", "Drew", "1100 Sunset blvd", "Hollywood", "CA", "08654"
+
+
+''Invalid input- missing first name
+AddCustomer "", "Smith", "32 Main str", "New York", "NY", "09876"
+''Invalid input - missing last name
+AddCustomer "Doug", "", "23 Main str", "Seatle", "PA", "98654"
